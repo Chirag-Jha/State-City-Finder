@@ -10,6 +10,10 @@ This tool loads state-city mappings from a JSON file and allows users to:
 
 ---
 
+### Live Preview - https://ahead.short.gy/statecity
+
+---
+
 ## 🔧 Features
 
 - 🗺 Dynamic loading of state-city data from `cities.json`
